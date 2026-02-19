@@ -12,8 +12,6 @@ Currently focused on full-stack development, mobile apps, and participating in h
 
 ---
 
----
-
 ## 🏆 Hackathons
 - 2x Winner of WHACK 2025
 - 🔨 Actively competing — currently preparing for **CivicHacks** and future events
@@ -21,13 +19,6 @@ Currently focused on full-stack development, mobile apps, and participating in h
 
 ---
 
-## 📊 GitHub Stats
-
-![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanWirdiny&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanWirdiny&layout=compact&theme=default&hide_border=true)
-
----
 
 ## 📫 Connect
 
