@@ -12,7 +12,8 @@ Currently focused on full-stack development, mobile apps, and participating in h
 
 ---
 
-## Hackathons
+## Internships and Hackathons
+- 2x Liberty Mutual Intern.
 - 2x Winner of WHACK 2025
 - Actively competing — currently preparing for **CivicHacks** and future events
 - Passionate about building accessibility tools and creative tech solutions under time pressure
@@ -21,7 +22,7 @@ Currently focused on full-stack development, mobile apps, and participating in h
 
 ## Current Direction
 - Currently experimenting with swift and spotify API.
-- Leveraging Gemini Live in The Buddy APP for enhanced instant response and accessibility.
+- Leveraging Gemini Live in themobile application BUDDY for enhanced instant response and accessibility.
 
 ---
 
