@@ -1,4 +1,4 @@
-# Hi, I'm Yan 👋
+# Hi, I'm Yan 
 
 CS student at UMass Boston — building things, breaking things, and learning from both.
 
