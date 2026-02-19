@@ -1,4 +1,4 @@
-# Hi, I'm Yan, your future favorite software engineer. 
+# Hi, I'm Yan, your future favorite Software Engineer. 
 
 CS student at UMass Boston — building things, breaking things, and learning from both.
 
