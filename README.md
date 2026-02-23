@@ -29,7 +29,7 @@ Currently focused on full-stack development, mobile apps, and participating in h
 
 ## Connect
 
-- Portfolio: [myportfolio-production-7f73.up.railway.app](https://myportfolio-production-7f73.up.railway.app/)
+- Portfolio: [myportfolio-production-7f73.up.railway.app](https://yanmoise/com)
 - Open to internship opportunities
 
 ---
