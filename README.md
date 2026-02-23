@@ -29,7 +29,7 @@ Currently focused on full-stack development, mobile apps, and participating in h
 
 ## Connect
 
-- Portfolio: [yanmoise.com](yanmoise.com)
+- Portfolio: [yanmoise.com](https://yanmoise.com/)
 - Open to internship opportunities
 
 ---
