@@ -16,7 +16,6 @@ Currently focused on full-stack development, mobile apps, and participating in h
 - 2x Liberty Mutual Intern.
 - 1x Winner of CivicHacks at Boston University 2026.
 - 2x Winner of WHACK 2025
-- Actively competing — currently preparing for **CivicHacks** and future events
 - Passionate about building accessibility tools and creative tech solutions under time pressure
 
 ---
