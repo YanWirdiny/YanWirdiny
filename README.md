@@ -21,8 +21,8 @@ Currently focused on full-stack development, mobile apps, and participating in h
 ---
 
 ## Current Direction
-- Currently experimenting with swift and spotify API.
-- Leveraging Gemini Live in themobile application BUDDY for enhanced instant response and accessibility.
+- working on YUGO
+- Learning about MCP
 
 ---
 
